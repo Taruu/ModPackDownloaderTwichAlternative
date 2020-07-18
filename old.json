@@ -1,0 +1,472 @@
+[
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/actually-additions/download/2844115",
+    "filename": "ActuallyAdditions.jar",
+    "md5hash": "e62726802ff285f63da89690895c375c",
+    "optional": false
+  },
+  {
+    "ProjectID" : 250363,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/autoreglib/download/2746011",
+    "filename": "AutoRegLib.jar",
+    "md5hash": "4e5a4b881c27b1e4502a9a16c00882ad",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/baubles/download/2518667",
+    "filename": "Baubles.jar",
+    "md5hash": "944dec4ef3fbfd4d498d94a7047af201",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ctm/download/2915363",
+    "filename": "CTM-MC.jar",
+    "md5hash": "77a8bb5486c97e3eaa6f45e5bd768864",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/chameleon/download/2450900",
+    "filename": "Chameleon-1.12-4.1.3.jar",
+    "md5hash": "e42efa8f4fd42d2918128a826b740e98",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/chisel/download/2915375",
+    "filename": "Chisel-MC1.12.2-1.0.2.45.jar",
+    "md5hash": "54afc298f94e708f0e1cdf399200b2cb",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/cofh-core/download/2920433",
+    "filename": "CoFHCore-1.12.2-4.6.6.1-universal.jar",
+    "md5hash": "f147d3b87f97bb317e1c37cba0dde002",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering/download/2974106",
+    "filename": "ImmersiveEngineering-0.12-98.jar",
+    "md5hash": "affce9a7f7cb9ab257135da89314e07e",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ender-io-base/download/2989190",
+    "filename": "EnderIO-base-1.12.2-5.2.59.jar",
+    "md5hash": "14fdc1307b2c20dba3bcde800ff12978",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/railcraft/download/2687757",
+    "filename": "railcraft-12.0.0.jar",
+    "md5hash": "b6f0592e8f5c24d07fe065f1c97c8fda",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/openblocks/download/2699056",
+    "filename": "OpenBlocks-1.12.2-1.8.1.jar",
+    "md5hash": "cd7f642f983669c6ae94d6a999d0d6e9",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ender-io-machines/download/2989192",
+    "filename": "EnderIO-machines-1.12.2-5.2.59.jar",
+    "md5hash": "e82acaccfa8bee48d2c2cda5cad9c4a9",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/light-level-overlay-reloaded/download/2563430",
+    "filename": "LLOverlayReloaded-1.1.6-mc1.12.2.jar",
+    "md5hash": "23f498874f1596b7a8c167ec4327b360",
+    "optional": true
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/techreborn/download/2966851",
+    "filename": "TechReborn-1.12.2-2.27.3.1084-universal.jar",
+    "md5hash": "44ab7b9f8541f1f987298bcde84081c3",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/openfm/download/2598511",
+    "filename": "OpenFM-1.12.2-0.1.0.19.jar",
+    "md5hash": "cfd531b1d2c89aea763bc5044fca38bd",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/openglasses2/download/2842055",
+    "filename": "OpenGlasses-MC1.12.2-2.2-50.jar",
+    "md5hash": "d88304f35084139d7ee9707303d65847",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/openprinter/download/2817562",
+    "filename": "OpenPrinter-1.12.2-0.1.0.9.jar",
+    "md5hash": "5d5669730e8be72adb707424e7db1ec2",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/stimmedcow-nomorerecipeconflict/download/2671230",
+    "filename": "NoMoreRecipeConflict-0.13(1.12.2).jar",
+    "md5hash": "95ca245f9c463dfa7467575e37d6cb2e",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/openscreens/download/2754959",
+    "filename": "openscreens-1.12.2-1.0.1.jar",
+    "md5hash": "7faa14264ab894341acd5f34aaf6c747",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://micdoodle8.com/new-builds/GC-1.12/280/MicdoodleCore-1.12.2-4.0.2.280.jar",
+    "filename": "MicdoodleCore-1.12.2-4.0.2.280.jar",
+    "md5hash": "2b033cb0694a53ea7b80876e2f00dec5",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/storage-drawers/download/2952606",
+    "filename": "StorageDrawers-1.12.2-5.4.2.jar",
+    "md5hash": "0f658c7cba3e6793abbcb934b4810902",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/reborncore/download/2966845",
+    "filename": "RebornCore-1.12.2-3.19.4.529-universal.jar",
+    "md5hash": "8d5500c19c06b758705071ab9c64d812",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/commons0815/download/2842054",
+    "filename": "Commons0815-1.12.2-1.3.7.jar",
+    "md5hash": "ad28ee7548a8f8adc54ab28cc3f0e8f6",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/patchouli/download/2992184",
+    "filename": "Patchouli-1.0-21.jar",
+    "md5hash": "91b259ab3aadfcc5afeffdc6ec79220b",
+    "glob": "Patchouli-?.*-*.jar",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/endercore/download/2972849",
+    "filename": "EnderCore-1.12.2-0.5.76.jar",
+    "md5hash": "6164be012de6ee761e37f54a74074125",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://micdoodle8.com/new-builds/GC-1.12/280/GalacticraftCore-1.12.2-4.0.2.280.jar",
+    "filename": "GalacticraftCore-1.12.2-4.0.2.280.jar",
+    "md5hash": "9298e6b85b38eab9b830a0637f1fbced",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/thermal-expansion/download/2926431",
+    "filename": "ThermalExpansion-1.12.2-5.5.7.1-universal.jar",
+    "md5hash": "0bf91e166b05e83d22455a9c7ec395bb",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer/download/2728585",
+    "filename": "JustEnoughResources-1.12.2-0.9.2.60.jar",
+    "md5hash": "87a4666549a60d8fb423883dd4ee6232",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/extreme-reactors/download/2722271",
+    "filename": "ExtremeReactors-1.12.2-0.4.5.67.jar",
+    "md5hash": "92e5cc48aca43add940af096e7694141",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/download/2926428",
+    "filename": "ThermalFoundation-1.12.2-2.6.7.1-universal.jar",
+    "md5hash": "6eca041bbf28949b60ecf1179d561156",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/matteroverdrive-legacy/download/2699215",
+    "filename": "MatterOverdrive-1.12.2-0.7.1.0-universal.jar",
+    "md5hash": "bd261a01c6ca4dd29ba1700af40bb496",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/classic-bars/download/2861996",
+    "filename": "classicbar-0.5.4.jar",
+    "md5hash": "f06710fe5a77993720202101f3319764",
+    "optional": true
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/quark/download/2924091",
+    "filename": "Quark-r1.6-179.jar",
+    "md5hash": "dfcfa70d244f0435a5ff2b28037a324b",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/keyboard-wizard/download/2841927",
+    "filename": "keywizard-1.12.2-1.7.3.jar",
+    "md5hash": "c00876e68a57bff1f23d72e881903793",
+    "optional": true
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/bonsai-trees/download/2846217",
+    "filename": "bonsaitrees-1.1.4-b170.jar",
+    "md5hash": "136677befb5a253b867c8fde52bfa11b",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mcmultipart/download/2615930",
+    "filename": "MCMultiPart-2.5.3.jar",
+    "md5hash": "47987d111d6f1e48403bc3cbb23f5503",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ocdevices/download/2824169",
+    "filename": "ocdevices-MC1.12.2-1.0.0-44.jar",
+    "md5hash": "07e09588a4c30914db061123ff3869ef",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://micdoodle8.com/new-builds/GC-1.12/280/Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+    "filename": "Galacticraft-Planets-1.12.2-4.0.2.280.jar",
+    "md5hash": "848ebcd467a3389c9461007d2b164a6c",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/openmodslib/download/2699055",
+    "filename": "OpenModsLib-1.12.2-0.12.2.jar",
+    "md5hash": "9c0606c553fbdf86e2f459c1cc40414d",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/download/2671937",
+    "filename": "MouseTweaks-2.10-mc1.12.2.jar",
+    "md5hash": "e4dcbf47c3f99a780681e3a3a9fcf9e9",
+    "optional": true
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/zetta-industries/download/2636576",
+    "filename": "zettaindustries-1.3-1.12.2-161.jar",
+    "md5hash": "c263f1e971e3e5f515bbd26254c499ec",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker/download/2996711",
+    "filename": "CraftTweaker2-1.12-4.1.20.580.jar",
+    "md5hash": "a3a8df2775f73c7f59eb85e423a114de",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum/download/2544919",
+    "filename": "immersivepetroleum-1.12.2-1.1.9.jar",
+    "md5hash": "57ba127778e579d10d705f9f8359d2e0",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ender-io-endergy/download/2989200",
+    "filename": "EnderIO-endergy-1.12.2-5.2.59.jar",
+    "md5hash": "ef262a7eaeee3966c3766f7388ba9c04",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/the-one-probe/download/2667280",
+    "filename": "theoneprobe-1.12-1.4.28.jar",
+    "md5hash": "63849a13a822b3b56308245eb8074a7e",
+    "optional": true
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/opencomputers/download/2828357",
+    "filename": "OpenComputers-MC1.12.2-1.7.5.192.jar",
+    "md5hash": "1da9dd8478ba6d682f2787746776e18a",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/loottabletweaker/download/2541554",
+    "filename": "LootTableTweaker-1.12.2-1.1.14.jar",
+    "md5hash": "663ad7e644727f0fb3c85f672c55efa2",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/jei-integration/download/2951731",
+    "filename": "jeiintegration_1.12.2-1.6.0.jar",
+    "md5hash": "591f2eef8dc65ebc6850bce0acd88f41",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay/download/2463272",
+    "filename": "FastLeafDecay-v14.jar",
+    "md5hash": "18096ffb7f58d94f8e5a7bf2ff160f0f",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ender-io-oc-conduits/download/2989195",
+    "filename": "EnderIO-conduits-opencomputers-1.12.2-5.2.59.jar",
+    "md5hash": "9188d7f4fd3309a486cd11a3f4603ff8",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/opensecurity/download/2939430",
+    "filename": "OpenSecurity-1.12.2-1.0-41.jar",
+    "md5hash": "a22d0daff7124d662145a9073eb127fb",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/inventory-tweaks/download/2482481",
+    "filename": "InventoryTweaks-1.63.jar",
+    "md5hash": "1e2e33e5710394252abc4b014bc3dcbd",
+    "optional": true
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/codechicken-lib-1-8/download/2779848",
+    "filename": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+    "md5hash": "3b5e44db5ac96fb23a439590b6731a31",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/jei/download/2988828",
+    "filename": "jei_1.12.2-4.15.0.296.jar",
+    "md5hash": "07fd20e0d7197fa48202d2d5b8d34e34",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/redstone-flux/download/2920436",
+    "filename": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
+    "md5hash": "93b1715f05be1878da93fca36dd37f2a",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/immersiveposts/download/2951672",
+    "filename": "ImmersivePosts-0.2.1.jar",
+    "md5hash": "d2df966203a439ee154642f01f09955e",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "http://files.vexatos.com/Computronics/Computronics-1.12.2-1.6.6.jar",
+    "filename": "Computronics-1.12.2-1.6.6.jar",
+    "md5hash": "5e88b6e4939690a2067bf31f870a5577",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/pneumaticcraft-repressurized/download/2978408",
+    "filename": "pneumaticcraft-repressurized-1.12.2-0.11.15-398.jar",
+    "md5hash": "5f4d912fddd62248a347b85fbcead602",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/unidict/download/2880863",
+    "filename": "UniDict-1.12.2-2.9.6.jar",
+    "md5hash": "997757ba2a263a6da929f4735455c018",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/zerocore/download/2670570",
+    "filename": "zerocore-1.12.2-0.1.2.8.jar",
+    "md5hash": "cc782f73e62792dcdb108449baec110f",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/cofh-world/download/2920434",
+    "filename": "CoFHWorld-1.12.2-1.4.0.1-universal.jar",
+    "md5hash": "f2bfd74e76b71bdee8a20a9243dd5cdf",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ender-io-conduits/download/2989193",
+    "filename": "EnderIO-conduits-1.12.2-5.2.59.jar",
+    "md5hash": "2a8904e9cdaa0bde3792564ef8989dac",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/ender-io-zoo/download/2989199",
+    "filename": "EnderIO-zoo-1.12.2-5.2.59.jar",
+    "md5hash": "48b1c871040aa487dcc45ba072230ac5",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/galaxy-space-addon-for-galacticraft/download/2946091",
+    "filename": "GalaxySpace-1.12.2-2.0.13.jar",
+    "md5hash": "f779565a8a6d03bfeaa76e8ff156e084",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/asmodeuscore/download/2950369",
+    "filename": "AsmodeusCore-1.12.2-0.0.15.jar",
+    "md5hash": "9f42dad32d0ee1322267d24a0ec26e46",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod/download/2995656",
+    "filename": "NuclearCraft-2.18v-1.12.2.jar",
+    "md5hash": "ccfde7cfab8785fa921e8ae4c8451e6e",
+    "optional": false
+  },
+  {
+    "ProjectID" : 228404,
+    "link": "https://www.curseforge.com/minecraft/mc-mods/wanionlib/download/2807433",
+    "filename": "WanionLib-1.12.2-2.4.jar",
+    "md5hash": "98eaacdc2b62a0d1bd47fefa2308713c",
+    "optional": false
+  }
+]

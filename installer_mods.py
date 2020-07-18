@@ -137,7 +137,12 @@ class Ui(QtWidgets.QMainWindow):
 
         for NewMod in NewServerMods:
             oldMod = self.findByName(NewMod["filename"],OldServerMods)
-            if oldMod:
+            if oldMod and oldMod.get("fileId"):
+                if oldMod["fileId"] != NewMod["fileId"]:
+                    os.remove(path + "/mods/" + oldMod["filename"])
+                    listModsToDownload.append(NewMod)
+            else:
+                print(oldMod)
                 if oldMod["md5hash"] != NewMod["md5hash"]:
                     os.remove(path + "/mods/" + oldMod["filename"])
                     listModsToDownload.append(NewMod)

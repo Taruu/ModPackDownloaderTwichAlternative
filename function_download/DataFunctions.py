@@ -3,7 +3,6 @@ import json
 import zipfile
 import os
 import shutil
-import cfscrape
 from bs4 import BeautifulSoup
 import hashlib
 
@@ -14,7 +13,8 @@ servers = "https://raw.githubusercontent.com/Taruu/TANDOTS/master/server.json"
 class GetConfig:
     def __init__(self,Settings):
         self.Settings = Settings
-        self.scraper = cfscrape.create_scraper()
+        self.requestsSession = requests.Session()
+        self.requestsSession.headers.update({'User-Agent': 'Tandots updateer','From': 'tandots.ru'})
         temp_result = requests.get(servers)
         if temp_result.status_code == 200:
             serverList = temp_result.json()
@@ -70,48 +70,36 @@ class GetConfig:
 
     def ListMods(self,path_work_folder):
         print(path_work_folder)
-        with open(path_work_folder+"/modlistdownload.json") as modlist_file:
+        with open(path_work_folder+"/listmod.json") as modlist_file: #тут список модов меняем если че
             newModList = json.load(modlist_file)
         print(len(newModList))
         return newModList
 
+    def GetUrlMod(self,projectId,fileId):
+        response = self.requestsSession.get(f"https://addons-ecs.forgesvc.net/api/v2/addon/{projectId}/file/{fileId}/download-url")
+        return response.text
+
     def DownloadMods(self,progressBar,path_work_folder,dataMod):
         print("pathh",path_work_folder)
         path_for_mods = path_work_folder + f"/mods/{dataMod['filename']}"
-        link = dataMod["link"]
-        hash_mod = dataMod["md5hash"]
-        mod = self.scraper.get(link, stream=True)
-        content_length = mod.headers.get("Content-Length")
-        if link.startswith('https://www.curseforge.com'):
-            mod_screen = self.scraper.get(link)
-            soup = BeautifulSoup(mod_screen.text)
-            haslink = soup.findAll("p", {"class": "text-sm"})[0]
-            url = "https://www.curseforge.com" + haslink.findAll("a", href=True)[0].get('href')
-            mod_download = self.scraper.get(url, stream=True)
-            content_length = mod_download.headers.get("Content-Length")
-            while not (content_length):
-                mod_download = self.scraper.get(url, stream=True)
-                content_length = mod.headers.get("Content-Length")
+        if dataMod.get('projectId'):
+            linkToMod = self.GetUrlMod(dataMod["projectId"],dataMod["fileId"])
         else:
-            mod_download = requests.get(link,stream=True)
-            content_length = mod.headers.get("Content-Length")
-            while not (content_length):
-                mod_download = requests.get(link,stream=True)
-                content_length = mod.headers.get("Content-Length")
+            linkToMod = dataMod["url"]
 
+        modStream = self.requestsSession.get(linkToMod, stream=True)
+        content_length = modStream.headers.get("Content-Length")
+        while not (content_length):
+            modStream = self.requestsSession.get(linkToMod, stream=True)
+            content_length = modStream.headers.get("Content-Length")
 
         with open(path_for_mods, 'wb') as ModFile:
             progressBar.setMaximum(int(content_length) // 1024)
-            for i, chunk in enumerate(mod_download.iter_content(chunk_size=1024)):
+            for i, chunk in enumerate(modStream.iter_content(chunk_size=1024)):
                 progressBar.setValue(i)
                 ModFile.write(chunk)
                 ModFile.flush()
             ModFile.close()
-        with open(path_for_mods,"rb") as ModFile:
-            HashBytes = ModFile.read()
-            readable_hash = hashlib.md5(HashBytes).hexdigest()
-        if readable_hash != hash_mod:
-            os.remove(path_for_mods)
         return True
 
 
